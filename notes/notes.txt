@@ -1,0 +1,4 @@
+ - The main difference between the langgraph and the langchain is that the langgrph has the human like automany to execute ciomannads by thinking
+but the langchain are sequential. 
+ - langgraph is crucial when there is evolving user input
+ -   

@@ -1,0 +1,8 @@
+agents 
+a plant can also be an agent, there is an env, actions, and state it can perform 
+it can be said rule based system but it cannot 
+
+there is no such thing as agent (an independent thinking system), rather 
+there should be a single thinking system that has embeded rule based programs 
+(in tihs case these programs are agents) 
+
